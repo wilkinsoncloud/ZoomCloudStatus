@@ -159,9 +159,9 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Gateway
-      category: North Coast
+      category: New Zealand
     - name: Backup Gateway
-      category: North Coast
+      category: New Zealand
     - name: API
       description: The guts of the application.
       category: Uncategorized
